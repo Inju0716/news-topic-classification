@@ -1,5 +1,5 @@
 # new-topic-classification
-  Contributiers: [박재은](https://github.com/JPark11), [이인주](https://github.com/Inju0716), [정윤원](https://github.com/yoonwonj)
+  Contributors: [박재은](https://github.com/JPark11), [이인주](https://github.com/Inju0716), [정윤원](https://github.com/yoonwonj)
 
 ## 1. 데이터
   - [국립국어원 신문 말뭉치 2020](https://corpus.korean.go.kr/#down)
